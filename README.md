@@ -1,4 +1,4 @@
 <div align=center>
-    <h1>Backend Development with Golang</h1>
-    <p>Golang Resources for Backend Development Learning Path</p>
+    <h1>EchoCommerceHub</h1>
+    <p>The Dynamic Solution for E-commerce Excellence, Integrated Operations, and Insightful Analytics.</p>
 </div>
