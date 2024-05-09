@@ -1,0 +1,3 @@
+[submodule "swe_go"]
+	path = swe_go
+	url = git@github.com:pandohansamuel19/swe_go.git
