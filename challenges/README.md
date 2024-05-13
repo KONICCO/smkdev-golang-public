@@ -1,1 +1,1 @@
-# Challenges for Bootcamps
+# Codelabs for Short Courses
