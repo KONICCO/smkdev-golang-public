@@ -1,12 +1,12 @@
 [submodule "swe_go"]
 	path = swe_go
 	url = git@github.com:pandohansamuel19/swe_go.git
-[submodule "aether"]
-	path = aether
-	url = git@github.com:pandohansamuel19/aether.git
-[submodule "echocommercehub"]
-	path = echocommercehub
-	url = git@github.com:smkdev-id/echocommercehub.git
 [submodule "gocv"]
 	path = gocv
 	url = git@github.com:hybridgroup/gocv.git
+[submodule "smkdev-aether"]
+	path = smkdev-aether
+	url = git@github.com:smkdev-id/smkdev-aether.git
+[submodule "smkdev-echocommercehub"]
+	path = smkdev-echocommercehub
+	url = git@github.com:smkdev-id/smkdev-echocommercehub.git
