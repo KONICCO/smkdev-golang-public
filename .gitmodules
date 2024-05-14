@@ -7,3 +7,6 @@
 [submodule "smkdev-aether"]
 	path = smkdev-aether
 	url = git@github.com:smkdev-id/smkdev-aether.git
+[submodule "smkdev-echocommercehub"]
+	path = smkdev-echocommercehub
+	url = git@github.com:smkdev-id/smkdev-echocommercehub.git
