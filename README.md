@@ -1,7 +1,7 @@
 # SMKDEV Backend Development dengan Golang
 SMKDEV hadir dengan memberikan komponen utama dalam mengembangkan potensi sebagai Backend Developer dengan Golang. Kurikulum ini dibangun sedemikian rupa oleh SMKDEV bersama partner industri yang telah dipercaya. Telah teruji pada dalam menghasilkan talenta yang disesuaikan dengan kebutuhan industri
 
-
+<br>
 
 ## Syllabus
 
@@ -24,6 +24,7 @@ SMKDEV hadir dengan memberikan komponen utama dalam mengembangkan potensi sebaga
 | Cloud Computing Service | Robust Concept of Cloud Computing, Backend as a Service, Platform as a Service, Infrastructure as a Service, Cloud Database Services, Cloud Service Management, Pricing & Optimizations | [15-cloud-computing](https://github.com/smkdev-id/smkdev-golang-public/tree/main/bootcamps/15-cloud-computing) |
 | Best Practices & Use Cases| Implementing Image Recognition System | [16-best-practice](https://github.com/smkdev-id/smkdev-golang-public/tree/main/bootcamps/16-best-practice) |
 
+<br>
 
 ## Mitra Industri
 
@@ -31,39 +32,40 @@ SMKDEV hadir dengan memberikan komponen utama dalam mengembangkan potensi sebaga
     <table>
     <tr>
         <td>
-        <a href="https://gits.id/">
-            <img src="https://git.gits.id/uploads/-/system/appearance/logo/1/Logo-Main__1_.png" alt="GITS" width="150"/>
-        </a>
+            <a href="https://gits.id/">
+                <img src="https://git.gits.id/uploads/-/system/appearance/logo/1/Logo-Main__1_.png" alt="GITS" width="150"/>
+            </a>
         </td>
         <td>
-        <a href="https://www.eudeka.id/">
-            <img src="https://eudeka.storage.googleapis.com/wp/logo-eudeka-512x512-1-300x300.png" alt="Eudeka" width="150"/>
-        </a>
+            <a href="https://www.eudeka.id/">
+                <img src="https://eudeka.storage.googleapis.com/wp/logo-eudeka-512x512-1-300x300.png" alt="Eudeka" width="150"/>
+            </a>
         </td>
         <td>
-        <a href="https://hitopia.id/">
-            <img src="https://hitopia.id/wp-content/uploads/2023/04/Logo-Deep-Hitopia-Brown-min-Copy.png" alt="Hitopia" width="150"/>
-        </a>
+            <a href="https://hitopia.id/">
+                <img src="https://hitopia.id/wp-content/uploads/2023/04/Logo-Deep-Hitopia-Brown-min-Copy.png" alt="Hitopia" width="150"/>
+            </a>
         </td>
         <td>
-        <a href="https://arkana.co.id/">
-            <img src="https://arkana.com.my/web/image/res.partner/1/image?unique=93368ff" alt="Arkana" width="150"/>
-        </a>
+            <a href="https://arkana.co.id/">
+                <img src="https://arkana.com.my/web/image/res.partner/1/image?unique=93368ff" alt="Arkana" width="150"/>
+            </a>
         </td>
         <td>
-        <a href="https://mantab.one/en/">
-            <img src="https://mantab.one/wp-content/uploads/2024/05/logo.png" alt="Mantab One" width="150"/>
-        </a>
+            <a href="https://mantab.one/en/">
+                <img src="https://mantab.one/wp-content/uploads/2024/05/logo.png" alt="Mantab One" width="150"/>
+            </a>
         </td>
         <td>
-        <a href="https://volantis.io/">
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd-YWd6j6ZfTCJ7X8pv_n96QnZQtd8qAwwfQ&s" alt="Volantis" width="150"/>
-        </a>
+            <a href="https://volantis.io/">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd-YWd6j6ZfTCJ7X8pv_n96QnZQtd8qAwwfQ&s" alt="Volantis" width="150"/>
+            </a>
         </td>
     </tr>
     </table>
 </div>
 
+<br>
 
 ## Pertanyaan dan Kontribusi
 Jikalau ada pertanyaan terkait materi, sumber daya, serta ingin berkontribusi dalam pengembangan kurikulum ini, silahkan bergabung ke grup [SMKDEV - Open Source](https://chat.whatsapp.com/GdfDe93psAx21Z4JdsBqsg)
