@@ -1,7 +1,6 @@
 # SMKDEV Backend Development dengan Golang
 SMKDEV hadir dengan memberikan komponen utama dalam mengembangkan potensi sebagai Backend Developer dengan Golang. Kurikulum ini dibangun sedemikian rupa oleh SMKDEV bersama partner industri yang telah dipercaya. Telah teruji pada dalam menghasilkan talenta yang disesuaikan dengan kebutuhan industri
 
-<br>
 
 ## Syllabus
 
@@ -24,7 +23,6 @@ SMKDEV hadir dengan memberikan komponen utama dalam mengembangkan potensi sebaga
 | Cloud Computing Service | Robust Concept of Cloud Computing, Backend as a Service, Platform as a Service, Infrastructure as a Service, Cloud Database Services, Cloud Service Management, Pricing & Optimizations | [15-cloud-computing](https://github.com/smkdev-id/smkdev-golang-public/tree/main/bootcamps/15-cloud-computing) |
 | Best Practices & Use Cases| Implementing Image Recognition System | [16-best-practice](https://github.com/smkdev-id/smkdev-golang-public/tree/main/bootcamps/16-best-practice) |
 
-<br>
 
 ## Mitra Industri
 
@@ -65,7 +63,6 @@ SMKDEV hadir dengan memberikan komponen utama dalam mengembangkan potensi sebaga
     </table>
 </div>
 
-<br>
 
 ## Pertanyaan dan Kontribusi
 Jikalau ada pertanyaan terkait materi, sumber daya, serta ingin berkontribusi dalam pengembangan kurikulum ini, silahkan bergabung ke grup [SMKDEV - Open Source](https://chat.whatsapp.com/GdfDe93psAx21Z4JdsBqsg)
