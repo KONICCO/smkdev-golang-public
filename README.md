@@ -1,4 +1,4 @@
-# SMKDEV Backend Development dengan Golang
+# Backend Development with Golang and Echo for SMKDEV Community
 SMKDEV hadir dengan memberikan komponen utama dalam mengembangkan potensi sebagai Backend Developer dengan Golang. Kurikulum ini dibangun sedemikian rupa oleh SMKDEV bersama partner industri yang telah dipercaya. Telah teruji pada dalam menghasilkan talenta yang disesuaikan dengan kebutuhan industri
 
 
