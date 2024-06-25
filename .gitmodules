@@ -1,6 +1,0 @@
-[submodule "gocv"]
-	path = gocv
-	url = git@github.com:hybridgroup/gocv.git
-[submodule "smkdev-echocommercehub"]
-	path = smkdev-echocommercehub
-	url = git@github.com:smkdev-id/smkdev-echocommercehub.git
