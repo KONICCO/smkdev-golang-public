@@ -1,0 +1,10 @@
+GOM07 - Caching
+
+Objectiveness
+- Konsep Dasar Caching
+- HTTP Caching Headers
+- Cache Invalidation
+- In-Memory Caching
+- Penerapan Caching dengan Redis
+- Caching Layer pada Database
+- Monitoring dan Pengujian Caching

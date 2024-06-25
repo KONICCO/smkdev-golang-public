@@ -1,0 +1,10 @@
+GOM05 - Database with GORM
+
+Objectiveness
+- Konsep Dasar Database
+- Relational Database dengan GORM
+- CRUD GORM
+- Database Migration
+- Query Associations
+- Pagination dan Validations
+- Database Security pada GORM

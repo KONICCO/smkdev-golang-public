@@ -1,0 +1,13 @@
+GOM02 - Golang Signature
+
+Objectiveness
+- Pointer
+- Concurrency dan Goroutines
+- Defer, Panic & Recover
+- Channel
+- Struct & Interface
+- Cancellation dan Context
+- Reflection dan Metaprogramming
+- Package
+- Dependency Management
+- Generics

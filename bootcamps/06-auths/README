@@ -1,0 +1,11 @@
+GOM06 - Authentication and Authorization
+
+Objectiveness
+- Fundamental Concepts
+- Cookies & Sessions
+- Basic HTTP Routes
+- Bearer-token-based authentication
+- JWT-based authentication
+- Integration Practice to Features
+- Security Assertion Markup Language
+- Implementation Testing

@@ -1,0 +1,15 @@
+GOM04 - Native Framework with Echo
+
+Objectiveness
+- Pengenalan API
+- Bentuk implementasi API
+- Struktur Project API
+- Memulai Echo Framework
+- Routing
+- Parameter dan Query String
+- Request dan Response
+- Middleware
+- Static Template File Serving
+- Testing dengan Echo
+- Error Handling
+- Dokumentasi API
