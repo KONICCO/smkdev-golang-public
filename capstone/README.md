@@ -1,1 +1,1 @@
-# Courses and Webinars
+# Capstone Projects

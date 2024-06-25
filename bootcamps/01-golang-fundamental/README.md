@@ -1,9 +1,23 @@
-# Error Handling
+## GOM01 - Pengenalan pada Dunia Pemrograman
 
-### 4.7.1 Pengenalan pada Penanganan Error
+### Learning Outcome
+Peserta pelatihan diharapkan dapat menguasai konsep dasar pengembangan backend menggunakan Golang melalui modul ini. Mereka akan belajar menginstal dan mengkonfigurasi lingkungan pengembangan Golang, memahami penggunaan variabel dan tipe data dalam Golang, menggunakan operator untuk operasi matematika dan logika, mengimplementasikan berbagai pernyataan kontrol (control statements) untuk mengatur alur program, membuat dan menggunakan fungsi dalam Golang, memahami dan mengimplementasikan struktur data seperti array dan map, serta menangani error (penanganan error) secara efektif dalam pengembangan aplikasi backend dengan Golang.
 
-### 4.7.2 Penggunaan Error Interface
+### Learning Objective
+- Instalasi dan Konfigurasi
+- Variabel dan Tipe Data
+- Operator
+- Control Statements
+- Fungsi
+- Struktur Data
+- Penanganan Error
 
-### 4.7.3 fmt.Errorf()
+### Teaching Method
+- Self Paced Learning
+- Project Based Learning
 
-### 4.7.4 Error Handling dengan if-else
+### Assessment Method
+- Pre-Test
+- Quiz
+- Post-Test (HOTS)
+- Challenges
