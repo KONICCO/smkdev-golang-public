@@ -1,4 +1,4 @@
-## GOM01 - Pengenalan pada Dunia Pemrograman
+## GOM01 - Golang Fundamental
 
 ### Learning Outcome
 Peserta pelatihan diharapkan dapat menguasai konsep dasar pengembangan backend menggunakan Golang melalui modul ini. Mereka akan belajar menginstal dan mengkonfigurasi lingkungan pengembangan Golang, memahami penggunaan variabel dan tipe data dalam Golang, menggunakan operator untuk operasi matematika dan logika, mengimplementasikan berbagai pernyataan kontrol (control statements) untuk mengatur alur program, membuat dan menggunakan fungsi dalam Golang, memahami dan mengimplementasikan struktur data seperti array dan map, serta menangani error (penanganan error) secara efektif dalam pengembangan aplikasi backend dengan Golang.
