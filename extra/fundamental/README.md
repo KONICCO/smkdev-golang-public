@@ -1,1 +1,0 @@
-# Fundamental in Golang
