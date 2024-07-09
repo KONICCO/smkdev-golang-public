@@ -46,7 +46,7 @@ SMKDEV hadir dengan memberikan komponen utama dalam mengembangkan potensi sebaga
         </td>
         <td>
             <a href="https://arkana.co.id/">
-                <img src="https://arkana.com.my/web/image/res.partner/1/image?unique=93368ff" alt="Arkana" width="150"/>
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEfn7erhTM6D7ZECrtgowrDcTjTut6L2o3lg&s" alt="Arkana" width="150"/>
             </a>
         </td>
         <td>
