@@ -83,6 +83,83 @@ Berikut cara bagaimana proses instalasi Go pada Linux:
    source ~/.bashrc
    ```
 
+___
+
+## **NixOS**
+
+#### Untuk menginstall Go di NixOS dapat menggunakan 3 metode:
+1. yang pertama kita dapat menginstall secara `imperative` dengan menggunakan `nix-env` ⤵️
+
+   1. buka terminal pada linux
+   2. jalankan perintah di bawah, pada terminal linux:
+   ```shell
+   nix-env -iA nixos.go
+   ```
+   3. Tunggu proses instalasi selesai.
+   4. pastikan Go terinstall dengan menggunakan perintah:
+   ```shell
+   go version
+   ```
+___
+2. yang kedua kita dapat menginstall secara `declarative` dengan menggunakan `NixOS Configuration` atau `home-manager` ⤵️
+
+   - with `NixOS Configuration`
+   1. buka terminal pada linux
+   2. Edit file `configuration.nix` (biasanya terletak di `/etc/nixos/configuration.nix`) dan tambahkan baris berikut:
+   ```shell
+   environment.systemPackages = [
+      pkgs.go
+   ];
+   ```
+   3. jangan lupa save `configuration.nix` yang sudah kita edit sebelumnya.
+   4. build ulang dengan perintah:
+   ```shell
+   sudo nixos-rebuild switch
+   ```
+   5. masukkan password `sudo`
+   6. Tunggu proses rebuild selesai.
+   7. pastikan Go terinstall dengan menggunakan perintah:
+   ```shell
+   go version
+   ```
+___
+   - with `home-manager`
+   1. install home-manager dengan mengikuti link berikut: [disini](https://nix-community.github.io/home-manager/)
+   2. buka terminal pada linux.
+   3. Edit atau buat file di `~/.config/nixpkgs/home.nix` untuk konfigurasi home-manager. selanjutnya isi/edit file `home.nix` dengan mengikuti baris code di bawah ini: 
+   ```
+   { config, pkgs, ... }:
+
+   { 
+      programs.home-manager.enable = true;
+      home.packages = [ 
+         pkgs.go
+      ];
+   }
+   ```
+   4. jangan lupa save `home.nix` yang sudah kita isi/edit sebelumnya.
+   5. lalu build dengan perintah:
+   ```shell
+   home-manager switch
+   ```
+   6. Tunggu hingga proses penerapan konfigurasi selesai.
+   7. pastikan Go terinstall dengan menggunakan perintah:
+   ```shell
+   go version
+   ```
+
+___
+3. dan yang ketiga kita dapat menginstall secara `temporarily` dengan menggunakan `nix-shell` ⤵️
+
+   1. buka terminal pada linux
+   2. jalankan perintah di bawah, pada terminal linux:
+   ```shell
+   nix-shell -p go
+   ```
+   3. Anda sekarang berada di dalam lingkungan `shell sementara` yang telah menginstal Go. Lingkungan ini akan berakhir setelah Anda keluar dari shell.
+
+___
+
 7. Verifikasi instalasi Go dengan menjalankan perintah `go version` pada terminal. Jika instalasi berhasil, kamu akan melihat versi Go yang terpasang.
 
 ## **Mac OS**
