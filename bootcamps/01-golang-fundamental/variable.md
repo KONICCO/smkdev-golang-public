@@ -20,8 +20,6 @@ ___
 >> Mari kita lihat satu per satu.
 
 
-___
-
 ### • deklarasi menggunakan `var`
 
 **format** ==> `var variableName dataType`
@@ -214,8 +212,6 @@ ___
 >> - `Konstanta` memiliki nilai tetap yang tidak dapat berubah setelah pertama kali nilainya ditetapkan.
 >> - `Konstanta` harus memiliki nilai saat dideklarasikan.
 
-
-___
 
 ### • deklarasi menggunakan `const`
 
