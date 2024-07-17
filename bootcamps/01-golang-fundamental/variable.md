@@ -15,7 +15,7 @@ bayangkan Anda memiliki sebuah `kotak ajaib` yang dapat Anda `beri nama` dan dap
 
 ___
 
-> ##  jika anda sudah paham `Variable secara definisi`, Sekarang, saatnya kita belajar bagaimana cara `mendeklarasikan Variabel`.
+> ###  jika anda sudah paham `Variable secara definisi`, Sekarang, saatnya kita belajar bagaimana cara `mendeklarasikan Variabel`.
 >> di Go Ada berbagai macam cara untuk mendeklarasikan `Variabel`.
 >> Mari kita lihat satu per satu.
 
@@ -208,7 +208,7 @@ func main() {
 
 ___
 
-> ## jika anda sudah paham cara `Mendeklarasikan Variable`, di Go. Sekarang, saatnya kita belajar bagaimana cara `mendeklarasikan Konstanta` di Go.
+> ### jika anda sudah paham cara `Mendeklarasikan Variable`, di Go. Sekarang, saatnya kita belajar bagaimana cara `mendeklarasikan Konstanta` di Go.
 
 >> #### Note:
 >> - `Konstanta` memiliki nilai tetap yang tidak dapat berubah setelah pertama kali nilainya ditetapkan.
@@ -310,7 +310,7 @@ func main() {
 
 ___
 
-> ## jika anda sudah paham cara Mendeklarasikan `Variable` dan juga `Konstanta`, di Go. Sekarang, saatnya kita belajar bagaimana cara `Penamaan` "Variable" dan "Konstanta" di Go.
+> ### jika anda sudah paham cara Mendeklarasikan `Variable` dan juga `Konstanta`, di Go. Sekarang, saatnya kita belajar bagaimana cara `Penamaan` "Variable" dan "Konstanta" di Go.
 ### penamaan variabel yang umum digunakan dalam bahasa pemrograman Go:
 
 - Hindari nama yang ambigu atau sulit dipahami.
