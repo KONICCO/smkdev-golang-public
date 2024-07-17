@@ -22,7 +22,7 @@ ___
 
 ### • deklarasi menggunakan `var`
 
-**format** ==> `var variableName dataType`
+**format** ⇒ `var variableName dataType`
 
 _contoh penggunaan_:
 ```go
@@ -57,7 +57,7 @@ ___
 
 ### • deklarasi menggunakan `var` dan lansung mengisinya dengan `value`
 
-**format** ==> `var variableName dataType = InitialValue`
+**format** ⇒ `var variableName dataType = InitialValue`
 
 _contoh penggunaan_:
 ```go
@@ -87,7 +87,7 @@ ___
 
 ### • deklarasi menggunakan `:=` atau biasa di sebut `short declaration`
 
-**format** ==> `variableName := initialValue`
+**format** ⇒ `variableName := initialValue`
 
 _contoh penggunaan_:
 ```go
@@ -215,7 +215,7 @@ ___
 
 ### • deklarasi menggunakan `const`
 
-**format** ==> `const constantName typeData = constantValue`
+**format** ⇒ `const constantName typeData = constantValue`
 
 _contoh penggunaan_:
 ```go
@@ -312,12 +312,12 @@ ___
 - Hindari nama yang ambigu atau sulit dipahami.
 - Pilih nama yang menggambarkan tujuan variabel sehingga orang lain dapat dengan mudah memahaminya saat membaca kode.
 - Gunakan gaya penulisan camelCase. 
-    - contoh ==> `firstName` `lastName` `fullName`
+    - **contoh** ⇒ `firstName` `lastName` `fullName`
 - Gunakan singkatan yang umum
-    - penjelasan ==> Jika ada singkatan yang umum digunakan dalam pemrograman, seperti “URL” atau “ID”, Anda dapat menggunakannya untuk membuat kode Anda lebih mudah dipahami oleh pengembang lain.
+    - **penjelasan** ⇒ Jika ada singkatan yang umum digunakan dalam pemrograman, seperti “URL” atau “ID”, Anda dapat menggunakannya untuk membuat kode Anda lebih mudah dipahami oleh pengembang lain.
 - Gunakan bahasa Inggris
-    - penjelasan ==> Dalam menulis variabel, yang terbaik adalah menggunakan bahasa Inggris untuk memastikan konsistensi dalam kode dan mempermudah komunikasi antar programmer.
+    - **penjelasan** ⇒ Dalam menulis variabel, yang terbaik adalah menggunakan bahasa Inggris untuk memastikan konsistensi dalam kode dan mempermudah komunikasi antar programmer.
 - Hindari penamaan yang berlebihan
-    - penjelasan ==> Jika konteksnya sudah jelas, hindari menambahkan informasi yang berlebihan pada nama variabel. Gunakan nama yang singkat dan bermakna untuk membuat kode lebih bersih dan mudah dibaca.
+    - **penjelasan** ⇒ Jika konteksnya sudah jelas, hindari menambahkan informasi yang berlebihan pada nama variabel. Gunakan nama yang singkat dan bermakna untuk membuat kode lebih bersih dan mudah dibaca.
 
 ___
