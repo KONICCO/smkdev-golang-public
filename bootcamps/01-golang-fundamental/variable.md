@@ -1,34 +1,39 @@
+___
+
 # Apa itu Variable ?
 
 `Variabel` adalah salah satu konsep fundamental dalam pemrograman, termasuk di bahasa pemrograman Go (Golang).
 
 Dalam Go, `Variabel` digunakan untuk `menyimpan` dan `mengelola` data yang dapat berubah selama eksekusi program. jika anda masih belum paham Mari kita analogikan lebih dalam mengenai `variabel` di Go.
 
-`analogi`:
+###### **analogi**:
+bayangkan Anda memiliki sebuah `kotak ajaib` yang dapat Anda `beri nama` dan dapat `menyimpan apa saja`. Kotak ajaib ini disebut “Variabel” dalam bahasa pemrograman Go.
 
-bayangkan Anda memiliki sebuah `kotak ajaib` yang dapat Anda `beri   nama` dan dapat `menyimpan apa saja`. Kotak ajaib ini disebut “Variabel” dalam bahasa pemrograman Go.
-
-###### Tetapi, apa sebenarnya `variabel` di dalam bahasa pemrogramman itu ?
+##### Tetapi, apa sebenarnya `variabel` di dalam bahasa pemrogramman itu ?
 `Variabel` seperti `wadah` atau `tempat` kita menyimpan data. Sebagai contoh, kita bisa menyimpan data berbentuk integer, string, atau bahkan potongan kode program di dalamnya.
 
-___
-jika anda sudah paham `Variable secara definisi`, Sekarang, saatnya kita belajar bagaimana cara `mendeklarasikan Variabel`.
-di Go Ada berbagai macam cara untuk mendeklarasikan `Variabel`.
-Mari kita lihat satu per satu.
 
 ___
-### deklarasi menggunakan `var`
 
-format ==> `var variableName dataType`
+> ##  jika anda sudah paham `Variable secara definisi`, Sekarang, saatnya kita belajar bagaimana cara `mendeklarasikan Variabel`.
+>> di Go Ada berbagai macam cara untuk mendeklarasikan `Variabel`.
+>> Mari kita lihat satu per satu.
 
-contoh penggunaan:
+
+___
+
+### • deklarasi menggunakan `var`
+
+**format** ==> `var variableName dataType`
+
+_contoh penggunaan_:
 ```go
 var name string
 
 var age int
 ```
 
-contoh kasus:
+_contoh kasus_:
 ```go
 package main
 
@@ -49,19 +54,21 @@ func main() {
 }
 ```
 
+
 ___
-### deklarasi menggunakan `var` dan lansung mengisinya dengan `value`
 
-format ==> `var variableName dataType = InitialValue`
+### • deklarasi menggunakan `var` dan lansung mengisinya dengan `value`
 
-contoh penggunaan:
+**format** ==> `var variableName dataType = InitialValue`
+
+_contoh penggunaan_:
 ```go
 var name string = "Eko Edy"
 
 var age int = 20
 ```
 
-contoh kasus:
+_contoh kasus_:
 ```go
 package main
 
@@ -77,19 +84,21 @@ func main() {
 }
 ```
 
+
 ___
-### deklarasi menggunakan `:=` atau biasa di sebut `short declaration`
 
-format ==> `variableName := initialValue`
+### • deklarasi menggunakan `:=` atau biasa di sebut `short declaration`
 
-contoh penggunaan:
+**format** ==> `variableName := initialValue`
+
+_contoh penggunaan_:
 ```go
 name := "Eko Edy"
 
 age := 20
 ```
 
-contoh kasus:
+_contoh kasus_:
 ```go
 package main
 
@@ -105,10 +114,12 @@ func main() {
 }
 ```
 
-___
-### deklarasi beberapa variable atau biasa di sebut `Multiple declarations` 
 
-format ⤵️ 
+___
+
+### • deklarasi beberapa variable atau biasa di sebut `Multiple declarations` 
+
+**format** ⤵️ 
 
 ```go
 var (
@@ -118,7 +129,7 @@ var (
 )
 ```
 
-contoh penggunaan:
+_contoh penggunaan_:
 ```go
 var (
  name string
@@ -127,7 +138,7 @@ var (
 )
 ```
 
-contoh kasus:
+_contoh kasus_:
 ```go
 package main
 
@@ -151,10 +162,12 @@ func main() {
 }
 ```
 
-___
-### deklarasi beberapa variable atau biasa di sebut `Multiple declarations` dan lansung mengisinya dengan `value`
 
-format ⤵️ 
+___
+
+### • deklarasi beberapa variable atau biasa di sebut `Multiple declarations` dan lansung mengisinya dengan `value`
+
+**format** ⤵️ 
 
 ```go
 var (
@@ -164,7 +177,7 @@ var (
 )
 ```
 
-contoh penggunaan:
+_contoh penggunaan_:
 ```go
 var (
  name string = "Eko Edy"
@@ -173,7 +186,7 @@ var (
 )
 ```
 
-contoh kasus:
+_contoh kasus_:
 ```go
 package main
 
@@ -192,24 +205,28 @@ func main() {
 }
 ```
 
-___
-jika anda sudah paham cara `Mendeklarasikan Variable`, di Go. Sekarang, saatnya kita belajar bagaimana cara `mendeklarasikan Konstanta` di Go.
-> #### Note:
-> - `Konstanta` memiliki nilai tetap yang tidak dapat berubah setelah pertama kali nilainya ditetapkan.
-> - `Konstanta` harus memiliki nilai saat dideklarasikan.
-
 
 ___
-### deklarasi menggunakan `const`
 
-format ==> `const constantName typeData = constantValue`
+> ## jika anda sudah paham cara `Mendeklarasikan Variable`, di Go. Sekarang, saatnya kita belajar bagaimana cara `mendeklarasikan Konstanta` di Go.
 
-contoh penggunaan:
+>> #### Note:
+>> - `Konstanta` memiliki nilai tetap yang tidak dapat berubah setelah pertama kali nilainya ditetapkan.
+>> - `Konstanta` harus memiliki nilai saat dideklarasikan.
+
+
+___
+
+### • deklarasi menggunakan `const`
+
+**format** ==> `const constantName typeData = constantValue`
+
+_contoh penggunaan_:
 ```go
 const phi float64 = 3.14
 ```
 
-contoh kasus:
+_contoh kasus_:
 ```go
 package main
 
@@ -236,10 +253,12 @@ func main() {
 
 ```
 
-___
-### deklarasi beberapa konstanta atau biasa di sebut `Multiple constants`
 
-format ⤵️ 
+___
+
+### • deklarasi beberapa konstanta atau biasa di sebut `Multiple constants`
+
+**format** ⤵️ 
 
 ```go
 const (
@@ -249,7 +268,7 @@ const (
 )
 ```
 
-contoh penggunaan:
+_contoh penggunaan_:
 ```go
 const (
     celsiusToFahrenheitRatio float64 = 9.0 / 5.0
@@ -258,7 +277,7 @@ const (
 )
 ```
 
-contoh kasus:
+_contoh kasus_:
 ```go
 package main
 
@@ -288,8 +307,10 @@ func main() {
 
 ```
 
+
 ___
-jika anda sudah paham cara Mendeklarasikan `Variable` dan juga `Konstanta`, di Go. Sekarang, saatnya kita belajar bagaimana cara `Penamaan` "Variable" dan "Konstanta" di Go.
+
+> ## jika anda sudah paham cara Mendeklarasikan `Variable` dan juga `Konstanta`, di Go. Sekarang, saatnya kita belajar bagaimana cara `Penamaan` "Variable" dan "Konstanta" di Go.
 ### penamaan variabel yang umum digunakan dalam bahasa pemrograman Go:
 
 - Hindari nama yang ambigu atau sulit dipahami.
@@ -302,4 +323,5 @@ jika anda sudah paham cara Mendeklarasikan `Variable` dan juga `Konstanta`, di G
     - penjelasan ==> Dalam menulis variabel, yang terbaik adalah menggunakan bahasa Inggris untuk memastikan konsistensi dalam kode dan mempermudah komunikasi antar programmer.
 - Hindari penamaan yang berlebihan
     - penjelasan ==> Jika konteksnya sudah jelas, hindari menambahkan informasi yang berlebihan pada nama variabel. Gunakan nama yang singkat dan bermakna untuk membuat kode lebih bersih dan mudah dibaca.
+
 ___
